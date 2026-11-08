@@ -17,6 +17,12 @@ A pre-launch community and creator platform: social feeds, a multi-vendor market
 - **Frontend**: Nx monorepo of Vite + React + TypeScript apps sharing a hand-written, Zod-validated API client, plus a Next.js 16 public site.
 - **Data and infra**: PostgreSQL with TimescaleDB, Redis in two durability classes, RabbitMQ with MassTransit, OpenSearch, Quartz, Docker, a CDN/edge layer, DigitalOcean.
 
+## Open source
+
+- **[dotnet-agent-radar](https://github.com/jangolath/dotnet-agent-radar)**: a hand-reviewed shortlist of .NET, SQL Server
+  and Azure AI-agent tooling (MCP servers, Roslyn, T-SQL linters), each with a use / watch / avoid verdict and the reason,
+  kept fresh by a weekly check.
+
 ## How we build
 
 - **AI-first, human-gated**: AI agents draft, test and review code alongside engineers; independent review, triaged findings and automated gates decide what lands. The rules are written down so agents and people follow the same ones.
