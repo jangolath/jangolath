@@ -61,6 +61,9 @@ A pre-launch community and creator platform: social feeds, a multi-vendor market
 - **[dotnet-agent-radar](https://github.com/jangolath/dotnet-agent-radar)**: a hand-reviewed shortlist of .NET, SQL Server
   and Azure AI-agent tooling (MCP servers, Roslyn, T-SQL linters), each with a use / watch / avoid verdict and the reason,
   kept fresh by a weekly check.
+- **[lanqueue](https://github.com/jangolath/lanqueue)**: a .NET global tool that sends builds, tests and headless agent
+  jobs to the idle machines on your own network over key-only SSH, routed by capability, with safe defaults enforced by
+  tests. Built after one busy dev PC became the bottleneck for AI-assisted work.
 
 ## How we build
 
