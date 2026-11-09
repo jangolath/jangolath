@@ -1,14 +1,14 @@
 # Jason Wood
 
-Senior backend engineer and team lead with 15+ years in .NET, Azure and cloud-native services.
+Senior backend engineer and senior development team member with 15+ years in .NET, Azure and cloud-native services.
 
 ## Day job
 
-I lead a small development team and act as technical consultant to other departments, helping them move to the cloud and integrate services.
+I work in a small development team for a fortune 1000 company and act as technical consultant to other departments, helping them move to the cloud and integrate services.
 
 - **Cloud-native .NET**: I design, deploy and monitor C# / .NET microservices on Azure in production, with safer deployment practices and proper lifecycle management.
 - **DevOps**: reusable GitHub Actions workflows and CI/CD pipelines that make rapid, repeatable releases the default.
-- **AI adoption**: I led the integration of AI tools (Claude, Copilot, ChatGPT) and AI APIs into production software, and set the best practices our teams follow.
+- **AI adoption**: I help lead the integration of AI tools (Claude, Copilot, ChatGPT) and AI APIs into production software, and recommend the best practices our teams follow.
 - **Mentoring and architecture**: code review, dependency injection, agile practice, and architectural decisions that other people can understand and maintain.
 
 ## On my own time
