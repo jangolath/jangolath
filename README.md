@@ -64,6 +64,9 @@ A pre-launch community and creator platform: social feeds, a multi-vendor market
 - **[lanqueue](https://github.com/jangolath/lanqueue)**: a .NET global tool that sends builds, tests and headless agent
   jobs to the idle machines on your own network over key-only SSH, routed by capability, with safe defaults enforced by
   tests. Built after one busy dev PC became the bottleneck for AI-assisted work.
+- **[lanq-makeready](https://github.com/jangolath/lanq-makeready)**: lanqueue's companion. A read-only readiness check
+  for an old PC (Windows, Linux or macOS) before it joins the pool: what is missing, what is too old, and what would
+  break an overnight job, plus a ready-to-paste worker entry. No admin, no network, nothing installed.
 
 ## How we build
 
